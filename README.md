@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Pelion-GR-LYCHEE-camera
 
 Web app to view photos took by GR-LYCHEE or GR-PEACH via Pelion Device Management.
@@ -28,6 +29,9 @@ The master branch is always under development and must be used with the latest f
 1. Click the **CAPTURE** button, then you'll get a photo from your GR-LYCHEE/PEACH!
 
 **Note: you can open only 1 channel per 1 API key. Don't open more than 2 pages by 1 API key.**
+=======
+# DPSdesignARM
+>>>>>>> origin/master
 =======
 # DPSdesignARM
 >>>>>>> origin/master
